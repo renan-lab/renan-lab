@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Junior Web Developer<br>- 📚 I'm currently learning Laravel, SOLID Principles and Design Patterns</p>
+- 🔭 I’m working as Junior Web Developer
+- 📚 I'm currently learning Laravel, SOLID Principles and Design Patterns
 
 ###
 
