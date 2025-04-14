@@ -21,14 +21,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hello world!👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p>- 🔭 I’m working as Junior Web Developer<br>- 📚 I'm currently learning Laravel, SOLID Principles and Design Patterns</p>
+
+- 🔭 I’m working as Junior Web Developer
+- 📚 I'm currently learning Laravel, SOLID Principles and Design Patterns
 
 ###
 
