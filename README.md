@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com/?user=renan-lab&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=5&order=1" height="150" alt="streak graph"  />
 </div>
 
